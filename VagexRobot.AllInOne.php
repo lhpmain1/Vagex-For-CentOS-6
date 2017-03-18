@@ -34,9 +34,11 @@ if (PHP_SAPI !== 'cli') {
  * Class VagexRobot
  */
 class VagexRobot {
-    const VAGEX_URL_A = 'http://vagex.com/ffupdater151a.php';
+    /*const VAGEX_URL_A = 'http://vagex.com/ffupdater151a.php';
     const VAGEX_URL_B = 'http://vagex.com/ffupdater151b.php';
-    const VAGEX_URL_E = 'http://vagex.com/ffupdater151e.php';
+    const VAGEX_URL_E = 'http://vagex.com/ffupdater151e.php';*/
+    const VAGEX_URL_A = 'http://vagex.com/fupdater2.php';
+    const VAGEX_URL_B = 'http://vagex.com/fupdater2.php';
 
     const VAGEX_SPR_SID = 'SID:::|';
     const VAGEX_SPR_EOF = ':::<br>';
